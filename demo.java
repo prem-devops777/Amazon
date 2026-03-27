@@ -13,3 +13,7 @@ git branch --shows all local branches
 git checkout --used to switch between branches
 Switch to SSH from HTTPS
 git remote set-url origin git@github.com:prem-devops777/Amazon.git
+Switch to HTTPS from SSH
+git remote set-url origin https://github.com/prem-devops777/Amazon.git
+git remove -v --it lists all configured remote repositories along with their URLs
+
