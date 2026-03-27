@@ -11,3 +11,5 @@ git merge -- used to combine changes from one branch into another branch
 git pull --updates your local project with the latest changes from the remote repository
 git branch --shows all local branches
 git checkout --used to switch between branches
+Switch to SSH from HTTPS
+git remote set-url origin git@github.com:prem-devops777/Amazon.git
