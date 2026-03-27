@@ -16,4 +16,4 @@ git remote set-url origin git@github.com:prem-devops777/Amazon.git
 Switch to HTTPS from SSH
 git remote set-url origin https://github.com/prem-devops777/Amazon.git
 git remove -v --it lists all configured remote repositories along with their URLs
-
+git log --It is used to view the commit history of the repository
